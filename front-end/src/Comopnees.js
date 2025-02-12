@@ -1,0 +1,36 @@
+export { default as CardHome } from "./Pages/HomePage/CardHome";
+export { default as Looding } from "./Pages/Looding/Looding";
+export { default as Hero } from "./Pages/HomePage/Hero";
+export { default as Footer } from "./Pages/Footer/Footer";
+export { default as ScrollToTop } from "./Pages/scroll/ScrollToTop";
+export { default as NotFound } from "./Pages/NotFound/NotFound";
+export { default as Dashbord } from "./Components/Dashbord/Dashbord";
+export { default as Users } from "./Components/Dashbord/ListDashbord/Users/Users";
+export { default as RequireAuth } from "./Pages/Auth/RequireAuth";
+export { default as UpdateUser } from "./Components/Dashbord/ListDashbord/Users/UpdateUser";
+export { default as PersistLogin } from "./Pages/Auth/PersistLogin";
+export { default as Product } from "./Components/Dashbord/ListDashbord/Product/Products";
+export { default as UpdateProduct } from "./Components/Dashbord/ListDashbord/Product/UpdateProduct";
+export { NewProduct } from "./Components/Dashbord/ListDashbord/Product/NewProduct";
+export { default as Products } from "./Components/Dashbord/ListDashbord/Product/Products";
+export { default as CreateUsers } from "./Components/Dashbord/ListDashbord/Users/CreateUsers";
+export { default as Login } from "./Pages/Auth/Login";
+export { default as Register } from "./Pages/Auth/Register";
+export { default as Nave } from "./Components/Nave/Nave";
+export { default as ProductPage } from "./Pages/HomePage/ProductPage";
+/* 
+export { default as TopBar } from "./Components/Dashbord/Admin/TopBar";
+export { default as SideBar } from "./Components/Dashbord/Admin/SideBar";
+export { default as Team } from "./Components/Dashbord/Admin/page/team/Team";
+export { default as Contacts } from "./Components/Dashbord/Admin/page/Contacts/Contacts";
+export { default as BarChart } from "./Components/Dashbord/Admin/page/barChart/BarChart.jsx";
+export { default as Invoices } from "./Components/Dashbord/Admin/page/Invoices/Invoices.jsx";
+export { default as Form } from "./Components/Dashbord/Admin/page/form/Form.jsx";
+export { default as PieChart } from "./Components/Dashbord/Admin/page/pieChart/PieChart.jsx";
+export { default as LineChart } from "./Components/Dashbord/Admin/page/LineChart/LineChart.jsx";
+export { default as Admin } from "./Components/Dashbord/Admin/Admin";
+export { default as FAQ } from "./Components/Dashbord/Admin/page/faq/faq.jsx";
+export { default as Geography } from "./Components/Dashbord/Admin/page/geography/Geography.jsx";
+export { default as Calendar } from "./Components/Dashbord/Admin/page/calendar/calendar.jsx";
+export { default as DashboardADmin } from "./Components/Dashbord/Admin/page/DashboardADmin/DashboardADmin";
+ */

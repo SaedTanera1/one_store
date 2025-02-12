@@ -1,0 +1,147 @@
+.ARTICLES {
+    padding-top: var(--main-padding-top);
+    padding-bottom: var(--main-padding-bottom);
+}
+
+
+.background {
+    background-color: #fb1b1b;
+}
+
+.oll-box-ARTICLES {
+    padding-top: var(--main-padding-top);
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    row-gap: 50px;
+
+}
+
+.box-ARTICLES {
+    box-shadow: 0 2px 15px rgb(0 0 0 / 10%);
+    background-color: white;
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+    transition: var(--main-transition);
+}
+
+.oll-box-ARTICLES img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.text-ARTICLES {
+    padding: 20px;
+    border-bottom: 1px solid rgb(214, 210, 210);
+
+}
+
+.text-ARTICLES h2 {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.text-ARTICLES p {
+    color: #777;
+    line-height: 1.5;
+    margin-top: 10px;
+}
+
+.lenk-ARTICLES {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.lenk-ARTICLES a {
+    text-decoration: none;
+    font-weight: bold;
+    color: var(--main-color-alt);
+}
+
+.lenk-ARTICLES i {
+    color: var(--main-color-alt);
+}
+
+.box-ARTICLES:hover {
+    transform: translateY(-20px);
+    box-shadow: 0 2px 15px rgb(0 0 0 / 70%);
+}
+
+.box-ARTICLES:hover i {
+    animation: alii 1.2s infinite;
+}
+
+@keyframes alii {
+    50% {
+        transform: translateX(15px);
+    }
+
+    100% {
+        transform: translateX(0px);
+    }
+}
+
+.CardHomeeall {
+    transition: 0.3s;
+
+}
+
+
+.CardHomee:hover {
+    transition: 0.6s;
+    transform: translateY(-20px);
+    box-shadow: 0 2px 15px rgb(0 0 0 / 70%);
+}
+
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.swiper-slide:hover {
+    cursor: grab;
+}
+
+.swiper-slide:active {
+    cursor: grabbing;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+@media (max-width: 600px) {
+
+    .parent-slider img {
+        display: none;
+
+    }
+
+
+}
+
+.border {
+    border: solid #00ff26 22px;
+    background-color: #ff0000;
+    
+}

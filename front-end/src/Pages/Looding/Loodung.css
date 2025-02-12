@@ -1,0 +1,48 @@
+.alllogding {
+    position: relative;
+    height: calc(100vh - 5px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lodbac {
+    background-color: #141418;
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.imglogdin {
+    position: absolute;
+    z-index: 11;
+    transform: 0.6s;
+}
+
+.imglogdin img {
+    z-index: 11;
+}
+
+.imglogdin h2 {
+    position: absolute;
+    color: #dddad5;
+    text-align: center;
+}
+
+.animate__bounceInUp {
+    display: inline-block;
+    margin: 0 0.5rem;
+    animation: bounce;
+    animation-duration: 2s;
+}
+
+.store {
+    position: absolute;
+    text-align: center;
+}
+img{
+
+    text-align: center;
+    transition: center ;
+    
+}

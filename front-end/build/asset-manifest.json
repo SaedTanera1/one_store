@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/e-commerce/static/css/main.33682b14.css",
+    "main.js": "/e-commerce/static/js/main.3804399d.js",
+    "static/media/NotFound.jpg": "/e-commerce/static/media/NotFound.e34d44fc212186920b16.jpg",
+    "static/media/b22.jpg": "/e-commerce/static/media/b22.0c70b87b09ba8ee48b63.jpg",
+    "static/media/b2.jpg": "/e-commerce/static/media/b2.dd29a0de085fca34e8dd.jpg",
+    "static/media/Screenshot_٢٠٢١٠٩٠٣-١٦١٢٠١_Instagram.jpg": "/e-commerce/static/media/Screenshot_٢٠٢١٠٩٠٣-١٦١٢٠١_Instagram.a083f595c3ddd368ee39.jpg",
+    "static/media/b7.png": "/e-commerce/static/media/b7.82001459bd37a3ef736c.png",
+    "static/media/b353.jpg": "/e-commerce/static/media/b353.e2d14c2e418b518fef35.jpg",
+    "static/media/wom434.jpg": "/e-commerce/static/media/wom434.3131f4b3a671e9ad2ac5.jpg",
+    "static/media/wo44.jpg": "/e-commerce/static/media/wo44.8d1e0f5d6c45eea878a1.jpg",
+    "static/media/logo.png": "/e-commerce/static/media/logo.fc29bd92520f7b3b7d3a.png",
+    "static/media/b1.png": "/e-commerce/static/media/b1.fb02383e3981e7e335ce.png",
+    "static/media/1.jpg": "/e-commerce/static/media/1.4ca383544327669fd26f.jpg",
+    "static/media/wo1.jpg": "/e-commerce/static/media/wo1.56e98e5b571bad6ac6f7.jpg",
+    "static/media/2.jpg": "/e-commerce/static/media/2.12e31292f98a4a35349e.jpg",
+    "index.html": "/e-commerce/index.html",
+    "main.33682b14.css.map": "/e-commerce/static/css/main.33682b14.css.map",
+    "main.3804399d.js.map": "/e-commerce/static/js/main.3804399d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33682b14.css",
+    "static/js/main.3804399d.js"
+  ]
+}
